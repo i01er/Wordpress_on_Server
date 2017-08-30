@@ -43,6 +43,6 @@ You could also use the traditional way to install your WordPress on the web serv
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Zip.png" width="70%">
 
 2. Create the database by using <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/MySQL.png" width="130px">.  
-(**Remember the database should be same as your localhost**)
+(**Remember the database should same as your localhost**)
 
 3. Your shop is ready!
