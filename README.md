@@ -15,4 +15,18 @@ You could quickly install your wordpress on the web in an easy way.
 4. After the install completed you will get your admin password.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/InstallComplete.png" width="70%">
 5. Now you could visit your website to take a look your NEW WordPress.
+
 6. Login at `YourWebSite/wp-admin` with your amdin name and password.
+7. You could goto <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/FileManager.png" width="130px"> to view all the files.
+8. In <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/phpMyAdmin.png" width="130px"> you could view your WordPress Database.
+<img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Database.png" width="70%">
+
+### Get Ready to open your eShop
+1. Don't forget to install the **WooCommerce** if you wish to keep using it.
+<img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/WooCommerce.png" width="70%">
+
+2. You could import the products from the **CSV file**.
+<img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Ready.png" width="70%">
+
+3. In your localhost wordpress you could import/export the products by using `Import` and `Export` buttons.
+<img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Products.png" width="70%">
