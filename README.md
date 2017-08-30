@@ -1,5 +1,5 @@
 # How to run the Wordpress on your server
-You could quickly install your wordpress on the web in an easy way.
+You could quickly install your wordpress on the web server.
 
 ### Backup
 1. If you want to move your localhost wordpress to the web, backup the whole wordpress.
@@ -30,5 +30,19 @@ You could quickly install your wordpress on the web in an easy way.
 2. You could import the products from the **CSV file**.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Ready.png" width="70%">
 
-3. In your localhost wordpress you could import/export the products by using `Import` and `Export` buttons.
+3. In your localhost wordpress, you could import/export the products by using `Import` and `Export` buttons.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Products.png" width="70%">
+
+4. WooCommerce could help you to add some example products if you wish.
+<img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/ExampleProduct.png" width="40%">
+
+# Other way
+You could also use the traditional way to install your WordPress on the web server.
+
+1. Upload the `WordPress Zip` to the server folder `public_html`.
+<img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Zip.png" width="70%">
+
+2. Create the database by using <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/MySQL.png" width="130px">.  
+(**Remember the database should be same as your localhost**)
+
+3. Your shop is ready!
