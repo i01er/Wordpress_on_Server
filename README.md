@@ -14,5 +14,5 @@ You could quickly install your wordpress on the web in an easy way.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Install.png" width="30%">
 4. After the install completed you will get your admin password.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/InstallComplete.png" width="70%">
-5. Now you could visit your website to take a look your **new** WordPress.
-6. Login at `/wp-admin` with your amdin name and password.
+5. Now you could visit your website to take a look your NEW WordPress.
+6. Login at `YourWebSite/wp-admin` with your amdin name and password.
