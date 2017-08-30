@@ -15,7 +15,6 @@ You could quickly install your wordpress on the web in an easy way.
 4. After the install completed you will get your admin password.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/InstallComplete.png" width="70%">
 5. Now you could visit your website to take a look your NEW WordPress.
-
 6. Login at `YourWebSite/wp-admin` with your amdin name and password.
 7. You could goto <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/FileManager.png" width="130px"> to view all the files.
 8. In <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/phpMyAdmin.png" width="130px"> you could view your WordPress Database.
