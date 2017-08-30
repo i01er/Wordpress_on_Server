@@ -33,7 +33,7 @@ You could quickly install your wordpress on the web server.
 3. In your localhost wordpress, you could import/export the products by using `Import` and `Export` buttons.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Products.png" width="70%">
 
-4. WooCommerce could help you to add some example products if you wish.
+4. WooCommerce could help you to add some example products.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/ExampleProduct.png" width="40%">
 
 # Other way
