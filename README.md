@@ -7,4 +7,10 @@ You could quickly install your wordpress on the web in an easy way.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Export.png" width="90%">
 
 ### Quickinstall
-1. You could use Quickinstall to install the wordpress
+1. You could use <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Quickinstall.png" width="130px"> to install the wordpress.
+2. Goto the page and click intall WordPress.
+<img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/WordPress.png" width="70%">
+3. Fill in the information of your WordPress.
+<img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Install.png" width="30%">
+4. After the install completed you will get your admin password.
+<img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/InstallComplete.png" width="70%">
