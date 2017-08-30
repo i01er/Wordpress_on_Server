@@ -39,7 +39,7 @@ You could quickly install your wordpress on the web server.
 # Other way
 You could also use the traditional way to install your WordPress on the web server.
 
-1. Upload the `WordPress Zip` to the server folder `public_html`.
+1. Upload the `WordPress Zip` to the server folder `public_html` and extract it.
 <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/Zip.png" width="70%">
 
 2. Create the database by using <img src="https://github.com/i01er/Wordpress_on_Server/blob/master/images/MySQL.png" width="130px">.  
