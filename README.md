@@ -1,3 +1,6 @@
+This repo is no longer update and please refer to my [Medium tutorial](https://medium.com/wordblock/how-to-run-the-wordpress-on-your-server-f6781b52b5a7)
+
+------
 # How to run the Wordpress on your server
 You could quickly install your wordpress on the web server.
 
